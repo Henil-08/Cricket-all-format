@@ -1,0 +1,8 @@
+pandas
+scikit-learn
+matplotlib
+numpy
+bs4
+seaborn
+requests
+ipykernel
