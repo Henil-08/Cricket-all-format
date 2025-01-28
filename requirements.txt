@@ -1,7 +1,7 @@
 pandas
 scikit-learn
 matplotlib
-numpy==1.21.6
+numpy==2.0.0
 bs4
 seaborn
 requests
